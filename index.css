@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f9fa;
+    margin: 20px;
+    text-align: center;
+}
+
+.titulo-principal {
+    color: #222;
+    margin-bottom: 30px;
+}
+
+.anuncio {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px auto;
+    width: 350px;
+    background-color: white;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.anuncio h1 {
+    font-size: 22px;
+    color: #333;
+}
+
+.anuncio p {
+    color: #555;
+    font-size: 14px;
+}
+
+.anuncio img {
+    border-radius: 8px;
+}
+
+.anuncio a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.anuncio a:hover {
+    background-color: #0056b3;
+}
+
+/* Anúncio 3 com estilo diferente */
+.destaque {
+    background-color: #ffeeba;
+    border: 2px solid #ffcc00;
+}
