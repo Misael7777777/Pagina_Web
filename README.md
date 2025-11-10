@@ -1,2 +1,8 @@
-Atividade Feita em Grupo:
-Misael França, Arthur Bryan, Vinicius Marinho, Helder Carlos, Raysa Ferreira (Charlie)
+# Atividade Feita em Grupo
+
+**Integrantes:**
+- Misael França
+- Arthur Bryan
+- Vinicius Marinho
+- Helder Carlos
+- Raysa Ferreira (Charlie)
